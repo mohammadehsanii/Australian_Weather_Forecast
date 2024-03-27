@@ -1,10 +1,16 @@
 # Australian_Weather_Forecast
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
 # Table of contents:
+.
+.
 
 # 1.	Case Study Challenge
 
@@ -44,14 +50,12 @@
             .  conclusion
 
 # 5.	Resources & Libraries
----------------------------------------------------------------------------
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
 # .  Introduction
 
 In this project, my aim is to determine if there will be rainfall in Australia tomorrow. I utilize Python and Scikit-Learn to apply Logistic Regression.
