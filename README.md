@@ -1,6 +1,6 @@
 # Australian_Weather_Forecast
-for more detail open .ipynb file:
-https://www.kaggle.com/code/mohammadehsani/australian-weather-forecast
+for more detail open .ipynb file:   
+   https://www.kaggle.com/code/mohammadehsani/australian-weather-forecast
 .
 
 # Table of contents:
