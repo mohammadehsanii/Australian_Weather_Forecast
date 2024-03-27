@@ -1,39 +1,10 @@
 # Australian_Weather_Forecast
 
- In this project, my aim is to determine if there will be rainfall in Australia tomorrow.
- 
- I utilize Python and Scikit-Learn to apply Logistic Regression.
- 
- My approach involves constructing a classifier to anticipate rainfall occurrences in Australia for the following day.
- 
- I employ Logistic Regression to train a binary classification model, utilizing the Rain in Australia dataset for this analysis.
-
- Title: Statistics Project Technical Report
-
-Authors:     MOHAMMAD EHSANI (D03000022)
-
-University:     University of Naples Federico II
-
-Course:     STATISTICAL LEARNING AND DATA ANALYSIS
-
-Instructor:     ROBERTA SICILIANO
-
-Date:     28 February 2024
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-Table of contents:
+# Table of contents:
 
 # 1.	Case Study Challenge
 
@@ -47,7 +18,7 @@ Table of contents:
             .  Data Visualization
             .  Data Pre-Processing and Feature Engineering
             .  Engineering outliers
-.  Handling Missing values
+            .  Handling Missing values
 
 
 
@@ -57,13 +28,13 @@ Table of contents:
 
 # 3.	 Confirmatory Data Analysis
 
-.  Encoding Numerical and Categorical variables
-.  Scaling Data
-.  Model Training
-.  Predict results
-.  Accuracy
-.  Overfitting and Underfitting
-.  K-Fold Cross validation
+            .  Encoding Numerical and Categorical variables
+            .  Scaling Data
+            .  Model Training
+            .  Predict results
+            .  Accuracy
+            .  Overfitting and Underfitting
+            .  K-Fold Cross validation
 
 # 4.	 Outcome and Concluding remarks
             .  Confusion Matrix
@@ -73,7 +44,7 @@ Table of contents:
             .  conclusion
 
 # 5.	Resources & Libraries
-
+---------------------------------------------------------------------------
 
 
 
