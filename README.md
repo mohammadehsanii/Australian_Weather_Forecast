@@ -1,5 +1,3 @@
-Here's a revised version of your README file with improved paragraphing:
-
 ---
 
 # Australian Weather Forecast
