@@ -2,7 +2,7 @@
 
 # Australian Weather Forecast
 
-For more detailed information, please refer to the .ipynb file available [here](https://www.kaggle.com/code/mohammadehsani/australian-weather-forecast).
+For more detailed information, please refer to the .ipynb file available [here](https://www.kaggle.com/code/mohammadehsani/australian-weather-forecast)
 
 ## Table of Contents
 
